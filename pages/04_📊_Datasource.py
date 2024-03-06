@@ -21,4 +21,6 @@ if __name__ == "__main__":
     st.markdown(
         "- [Liver Disease Prediction](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records))"
     )
-
+    st.markdown(
+        "- [Pneumonia Detection](https://www.kaggle.com/datasets/kostasdiamantaras/chest-xrays-bacterial-viral-pneumonia-normal))"
+    )

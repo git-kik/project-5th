@@ -28,11 +28,7 @@ def home():
 
     with col3:
         st.write("")
-    st.markdown(
-        f"<h1 style='text-align: center; color: white; background-color: orange;'>FitSphere</h1>"
-        f"<p style='text-align: center; color: green; font-size: 25px;'>Elevate your health</p>",
-        unsafe_allow_html=True,
-    )
+
     st.markdown("---")
 
     st.markdown(
@@ -43,11 +39,6 @@ def home():
 
     st.markdown(
         f"<p style='text-align: center; color: black; font-size: 20px'> We are virtual Health Consultant, and use state-of-the-art machine learning & deep learning technologies to provide healthcare solutions, help common people and health organizations power their care experience with advanced analytics</p>",
-        unsafe_allow_html=True,
-    )
-
-    st.markdown(
-        f"<p style='text-align: center; color: black; font-size: 20px'> We </p>",
         unsafe_allow_html=True,
     )
 
